@@ -1,4 +1,5 @@
 ← [Back to Menu](https://telinkgithub.github.io/Telink/ "Menu")
+![header-telink](https://i.imgur.com/5kRG6CF.jpg)
 
 Telink has designed several kinds of boards which are helpful to evaluate at the beginning of projects. After customers are familar with the boards and stock, customers can develop theirs own projects in many different field basing on the boards.
 
@@ -15,7 +16,7 @@ Since there is a remote control sample project in TLSR8232 BLE SDK, TLSR8232 rem
 [TLSR8232 remote control](https://telinkgithub.github.io/Assets/06_Hardware-TLSR823x-Family-Boards/TLSR8232_RCU_TLSR8232RC32D.zip)
 
 
-← [View the Project on GitHub](https://github.com/TelinkGithub/item-2 "Menu")
+← [View the Project on GitHub](https://github.com/TelinkGithub/TLSR823x-Family-Boards)
 
 
 ![footer-telink](https://telinkgithub.github.io/Assets/General/footer.jpg)
