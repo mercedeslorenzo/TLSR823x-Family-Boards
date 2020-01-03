@@ -19,4 +19,5 @@ Since there is a remote control sample project in TLSR8232 BLE SDK, TLSR8232 rem
 ← [View the Project on GitHub](https://github.com/TelinkGithub/TLSR823x-Family-Boards)
 
 
+
 ![footer-telink](https://telinkgithub.github.io/Assets/General/footer.jpg)
